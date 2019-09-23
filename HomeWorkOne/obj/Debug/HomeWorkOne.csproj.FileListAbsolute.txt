@@ -1,0 +1,10 @@
+F:\MVC\HomeWorkOne\HomeWorkOne\obj\Debug\HomeWorkOne.csprojAssemblyReference.cache
+F:\MVC\HomeWorkOne\HomeWorkOne\obj\Debug\HomeWorkOne.Form1.resources
+F:\MVC\HomeWorkOne\HomeWorkOne\obj\Debug\HomeWorkOne.Properties.Resources.resources
+F:\MVC\HomeWorkOne\HomeWorkOne\obj\Debug\HomeWorkOne.csproj.GenerateResource.cache
+F:\MVC\HomeWorkOne\HomeWorkOne\obj\Debug\HomeWorkOne.csproj.CoreCompileInputs.cache
+F:\MVC\HomeWorkOne\HomeWorkOne\bin\Debug\HomeWorkOne.exe.config
+F:\MVC\HomeWorkOne\HomeWorkOne\bin\Debug\HomeWorkOne.exe
+F:\MVC\HomeWorkOne\HomeWorkOne\bin\Debug\HomeWorkOne.pdb
+F:\MVC\HomeWorkOne\HomeWorkOne\obj\Debug\HomeWorkOne.exe
+F:\MVC\HomeWorkOne\HomeWorkOne\obj\Debug\HomeWorkOne.pdb
